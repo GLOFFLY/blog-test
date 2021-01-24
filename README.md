@@ -5,6 +5,7 @@
 
 爱好范围：
 * 声乐相关
+* 读书，比如余华的《第七天》
 * 编程。
   
 学习经历：
@@ -16,15 +17,14 @@
 下面是一段模拟I2C协议的启动I2C总线子程序：
 ```C
 void iic_start(void)
-{ 	
- 
-	BFSDA = 1;  
+{
+    BFSDA = 1;
     BFdelay_1us(1);      // 延时1us 
-   	BFCLK = 1;
+    BFCLK = 1;
     BFdelay_1us(1);      // 延时5us 
     BFSDA = 0;
-	BFdelay_1us(1);  
-  	BFCLK = 0;
+    BFdelay_1us(1);  
+    BFCLK = 0;
     BFdelay_1us(2);
 }
 ```
