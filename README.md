@@ -1,4 +1,7 @@
 # 个人介绍
+
+![hello](hello.png)
+
 我叫范立杨，祖籍河南南阳，现居郑州。
 
 通信工程专业20界优秀毕业生，毕业于北京科技大学天津学院。
@@ -17,14 +20,15 @@
 ```C
 void iic_start(void)
 { 	
- 
 	BFSDA = 1;  
     BFdelay_1us(1);      // 延时1us 
-   	BFCLK = 1;
+    BFCLK = 1;
     BFdelay_1us(1);      // 延时5us 
     BFSDA = 0;
-	BFdelay_1us(1);  
-  	BFCLK = 0;
+    BFdelay_1us(1);  
+    BFCLK = 0;
     BFdelay_1us(2);
 }
 ```
+
+![end](end.png)
