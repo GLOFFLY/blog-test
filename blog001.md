@@ -1,6 +1,6 @@
 # HTML 入门笔记 1
 
-![hello](https://github.com/GLOFFLY/blog-test/blob/master/hello.png)
+![hello](./hello.png)
 ## HTML 的出现
 
 HTML 是由一名叫 Tim Berners-Lee 的科学家发明的。目的是方便不同大学的科学家们可以更容易地获取彼此的研究文档。<br>HTML 取得了的巨大成功，大大超出了 Tim Berners-Lee 的原本预计。可以说 HTML 为我们今天所认识的万维网奠定了基础。
@@ -137,4 +137,4 @@ HTML 是由一名叫 Tim Berners-Lee 的科学家发明的。目的是方便不�
 
 * blockquote 换行的引用
 
-![end](https://github.com/GLOFFLY/blog-test/blob/master/end.png)
+![end](./end.png)
