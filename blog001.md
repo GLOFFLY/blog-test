@@ -1,6 +1,6 @@
 # HTML 入门笔记 1
 
-![hello](hello.png)
+![hello](./hello.png)
 
 ## HTML 的出现
 
@@ -138,4 +138,4 @@ HTML 是由一名叫 Tim Berners-Lee 的科学家发明的。目的是方便不�
 
 * blockquote 换行的引用
 
-![end](end.png)
+![end](./end.png)

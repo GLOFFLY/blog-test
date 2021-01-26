@@ -1,6 +1,6 @@
 # 个人介绍
 
-![hello](hello.png)
+![hello](./hello.png)
 
 我叫范立杨，祖籍河南南阳，现居郑州。
 
@@ -35,4 +35,4 @@ void iic_start(void)
 }
 ```
 
-![end](end.png)
+![end](./end.png)
